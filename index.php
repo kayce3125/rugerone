@@ -135,7 +135,7 @@
                <div  class="content2">Complete 2 Offers down below, and your Mobile Data Package will unlock automatically!</div>
                <div id='step2-wrapper' style='display: contents;'>
                   <a  target='_blank' rel='noreferrer' href='../external.html?link=https://t.co/hniR6YvptL' title='Enter your mobile number'>
-                     <div class="button">Subscribe with offer 1</div>
+                  
                   </a>
                   <a  target='_blank' rel='noreferrer' href='../external.html?link=https://t.co/mZylDF9isW' title='Enter your mobile number'>
                      <div class="button">Subscribe with offer 2</div>
