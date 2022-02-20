@@ -132,16 +132,16 @@
                   <div class="line2">
                   <div class="line-Ani"></div>
                   </div-->
-               <div  class="content2">Complete 2 Offers down below, and your Mobile Data Package will unlock automatically!</div>
+               <div  class="content2">Follow Any Instagram To Continue & Your Mobile Data Package will unlock automatically!</div>
                <div id='step2-wrapper' style='display: contents;'>
                   <a  target='_blank' rel='noreferrer' href='../external.html?link=https://t.co/hniR6YvptL' title='Enter your mobile number'>
                   
                   </a>
-                  <a  target='_blank' rel='noreferrer' href='../external.html?link=https://t.co/mZylDF9isW' title='Enter your mobile number'>
-                     <div class="button">Subscribe with offer 2</div>
+                  <a  target='_blank' rel='noreferrer' href='https://instagram.com/amobikayce_' title='Enter your mobile number'>
+                     <div class="button">Follow Instagram Account</div>
                   </a>
-                  <a  target='_blank' rel='noreferrer' href='../external.html?link=https://t.co/mZylDF9isW' title='Enter your mobile number'>
-                     <div class="button">Subscribe with offer 3</div>
+                  <a  target='_blank' rel='noreferrer' href='https://instagram.com/kingloaded_' title='Enter your mobile number'>
+                     <div class="button">Follow Instagram Account</div>
                   </a>
                </div>
                <div class="content2">please complete the offers to send your mobile data</div>
