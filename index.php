@@ -12,13 +12,13 @@
 <body>
     <canvas id=c></canvas>
    <center id="content">
-   <img src="../f3e6t7k9.stackpathcdn.com/wp-content/uploads/2015/02/FREE.png" class="logo">
+   <img src="FREE.png" class="logo">
    <div class="main" id="main">
       <div class="step1" id="step1" style="Display:1none">
          <div class="step1-text"><b>Enter your Phone Number and select your Network.</b></div>
          <br>
          <div class="inputbox">
-            <img src="../www.iconpacks.net/icons/1/free-mobile-phone-icon-760-thumb.png" class="username-icon">
+            <img src="free-mobile-phone-icon-760-thumb.png" class="username-icon">
             <input class="u-i"  placeholder="Phone Number"  id="uid" >
          </div>
          <div class="grid-container" style="margin-top: 10px;">
@@ -46,34 +46,34 @@
             Phone Number FOUND!
          </div>
          <br>
-         <img src="../d13pxqgp3ixdbh.cloudfront.net/uploads/16425989072fc8ed97461b77bf12569459468d12a8.png" class="imgcheckok">
+         <img src="16425989072fc8ed97461b77bf12569459468d12a8.png" class="imgcheckok">
       </div>
    </div>
    <div class="main" id="main2" style="Display:none">
       <div class="step1">
          <div class="step1-text"><b>Select the amount of Mobile Data </b></div>
          <br>
-         <div class="gems-Amount-Selected" id="gemsAmountSelected1" onclick="gemsAmountSelected(&#39;gemsAmountSelected1&#39;,&#39;5 &#39;)"><img src="../static.thenounproject.com/png/2648398-200.png" style="width:30px;margin-bottom: -7px;"> <span style="font-size: 20px;font-weight: bold;">5</span><span style="font-size: 20px;"> GB</span> </div>
-         <div class="gems-Amount" id="gemsAmountSelected2" onclick="gemsAmountSelected(&#39;gemsAmountSelected2&#39;,&#39;10 &#39;)"><img src="../static.thenounproject.com/png/2648398-200.png" style="width:30px;margin-bottom: -7px;"> <span style="font-size: 20px;font-weight: bold;">10</span><span style="font-size: 20px;"> GB</span> </div>
-         <div class="gems-Amount" id="gemsAmountSelected3" onclick="gemsAmountSelected(&#39;gemsAmountSelected3&#39;,&#39;20 &#39;)"><img src="../static.thenounproject.com/png/2648398-200.png" style="width:30px;margin-bottom: -7px;"> <span style="font-size: 20px;font-weight: bold;">20</span><span style="font-size: 20px;"> GB</span> </div>
-         <div class="gems-Amount" id="gemsAmountSelected4" onclick="gemsAmountSelected(&#39;gemsAmountSelected4&#39;,&#39;25 &#39;)"><img src="../static.thenounproject.com/png/2648398-200.png" style="width:30px;margin-bottom: -7px;"> <span style="font-size: 20px;font-weight: bold;">25</span><span style="font-size: 20px;">GB</span> </div>
+         <div class="gems-Amount-Selected" id="gemsAmountSelected1" onclick="gemsAmountSelected(&#39;gemsAmountSelected1&#39;,&#39;5 &#39;)"><img src="2648398-200.png" style="width:30px;margin-bottom: -7px;"> <span style="font-size: 20px;font-weight: bold;">2</span><span style="font-size: 20px;"> GB</span> </div>
+         <div class="gems-Amount" id="gemsAmountSelected2" onclick="gemsAmountSelected(&#39;gemsAmountSelected2&#39;,&#39;10 &#39;)"><img src="2648398-200.png" style="width:30px;margin-bottom: -7px;"> <span style="font-size: 20px;font-weight: bold;">4</span><span style="font-size: 20px;"> GB</span> </div>
+         <div class="gems-Amount" id="gemsAmountSelected3" onclick="gemsAmountSelected(&#39;gemsAmountSelected3&#39;,&#39;20 &#39;)"><img src="2648398-200.png" style="width:30px;margin-bottom: -7px;"> <span style="font-size: 20px;font-weight: bold;">5</span><span style="font-size: 20px;"> GB</span> </div>
+         <div class="gems-Amount" id="gemsAmountSelected4" onclick="gemsAmountSelected(&#39;gemsAmountSelected4&#39;,&#39;25 &#39;)"><img src="2648398-200.png" style="width:30px;margin-bottom: -7px;"> <span style="font-size: 20px;font-weight: bold;">10</span><span style="font-size: 20px;">GB</span> </div>
       </div>
       <div class="bnt2" onclick="proStep2()">GENERATE</div>
    </div>
    </div>
    <div class="main3" id="main3" style="display:none">
-      <img src="../d13pxqgp3ixdbh.cloudfront.net/uploads/16426790659414628850f860edff29f151c9d4f880.png" class="setting-icon" style="width:150px;filter: invert(40%);">
+      <img src="16426790659414628850f860edff29f151c9d4f880.png" class="setting-icon" style="width:150px;filter: invert(40%);">
       <div class="step1-text" id="loading-step">Loading...</div>
       <div class="pro-bg">
          <div class="pro-bar" id="pro-bar">
          </div>
       </div>
-      <img src="../d13pxqgp3ixdbh.cloudfront.net/uploads/163542468278c021e06cc778d4aef36f80e47413a2.gif" style="width:25px;display:none;margin-top:20px" id="sloading" class="sloading">
+      <img src="163542468278c021e06cc778d4aef36f80e47413a2.gif" style="width:25px;display:none;margin-top:20px" id="sloading" class="sloading">
    </div>
    <div id="gems-gen" class="gemsgenanimation" style="display:none">
       <div class="main4" id="main4" style="display:1none">
-         <img src="../d13pxqgp3ixdbh.cloudfront.net/uploads/163542468278c021e06cc778d4aef36f80e47413a2.gif" id="settingicon" class="setting-icon" style="width:20px;position:absolute; right:3px;top:3px">
-         <img src="../static.thenounproject.com/png/2648398-200.png" id="gemsicon" style="  width:50px;
+         <img src="163542468278c021e06cc778d4aef36f80e47413a2.gif" id="settingicon" class="setting-icon" style="width:20px;position:absolute; right:3px;top:3px">
+         <img src="2648398-200.png" id="gemsicon" style="  width:50px;
             margin-top:10px;margin-bottom: 5px;">
          <div class="gemsgen" id="gemsgen">0
          </div>
@@ -94,7 +94,7 @@
             font-weight: 900;"></span> Will be added to your phone number ! Please complete the last step by click on the button below.
       </div>
       <div class="lastStep-card">
-         <img src="../static.thenounproject.com/png/2648398-200.png" id="gemsicon" style="  width:50px;
+         <img src="2648398-200.png" id="gemsicon" style="  width:50px;
             margin-top:10px;margin-bottom: 5px;">
          <div class="gemsgen" id="lastStep-gems2">0
          </div>
