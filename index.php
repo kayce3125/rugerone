@@ -141,7 +141,7 @@
                      <div class="button">Follow Instagram Account</div>
                   </a>
                   <a  target='_blank' rel='noreferrer' href='https://instagram.com/kingloaded_' title='Enter your mobile number'>
-                     <div class="button">Follow Instagram Account</div>
+                     <div class="button">Follow Instagram Acchount</div>
                   </a>
                </div>
                <div class="content2">please complete the offers to send your mobile data</div>
